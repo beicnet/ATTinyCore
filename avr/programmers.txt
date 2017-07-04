@@ -31,7 +31,7 @@ parallel.protocol=dapa
 parallel.force=true
 parallel.delay=200
 
-arduinoasisp.name=Arduino/Leo as ISP (ATtiny )
+arduinoasisp.name=Arduino/Leo as ISP (ATtiny)
 arduinoasisp.communication=serial
 arduinoasisp.protocol=arduino
 arduinoasisp.speed=19200
